@@ -30,7 +30,7 @@
         "express": "^4.21.2",
         "jsonwebtoken": "^9.0.2",
         "mongoose": "^8.9.4",
-        "postcss": "^8.5.1",
+        "postcss": "^8.5.2",
         "react": "^18.2.0",
         "react-dnd": "^16.0.1",
         "react-dnd-html5-backend": "^16.0.1",
@@ -21783,9 +21783,9 @@
       }
     },
     "node_modules/postcss": {
-      "version": "8.5.1",
-      "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.5.1.tgz",
-      "integrity": "sha512-6oz2beyjc5VMn/KV1pPw8fliQkhBXrVn1Z3TVyqZxU8kZpzEKhBdmCFqI6ZbmGtamQvQGuU1sgPTk8ZrXDD7jQ==",
+      "version": "8.5.2",
+      "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.5.2.tgz",
+      "integrity": "sha512-MjOadfU3Ys9KYoX0AdkBlFEF1Vx37uCCeN4ZHnmwm9FfpbsGWMZeBLMmmpY+6Ocqod7mkdZ0DT31OlbsFrLlkA==",
       "funding": [
         {
           "type": "opencollective",
@@ -27204,9 +27204,9 @@
       "license": "MIT"
     },
     "node_modules/undici": {
-      "version": "6.21.0",
-      "resolved": "https://registry.npmjs.org/undici/-/undici-6.21.0.tgz",
-      "integrity": "sha512-BUgJXc752Kou3oOIuU1i+yZZypyZRqNPW0vqoMPl8VaoalSfeR0D8/t4iAS3yirs79SSMTxTag+ZC86uswv+Cw==",
+      "version": "6.21.1",
+      "resolved": "https://registry.npmjs.org/undici/-/undici-6.21.1.tgz",
+      "integrity": "sha512-q/1rj5D0/zayJB2FraXdaWxbhWiNKDvu8naDT2dl1yTlvJp4BLtOcp2a5BvgGNQpYYJzau7tf1WgKv3b+7mqpQ==",
       "license": "MIT",
       "engines": {
         "node": ">=18.17"
